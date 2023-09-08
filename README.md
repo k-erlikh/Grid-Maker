@@ -19,3 +19,6 @@
     <li>Select different proprtions of grid if possible for that image </li>
     <li>Adjust color and thickness of lines on grid </li>
  </ul>
+
+ <h2> Additional Notes </h2>
+ <p> A virtual environment was created for this program. Information about the packages required can be found in the requirments.txt </p>
